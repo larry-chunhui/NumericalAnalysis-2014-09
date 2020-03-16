@@ -1,0 +1,10 @@
+#hw1:
+calculate all the eigenvalue of a 501x501 matrix using Inverse power method
+
+#hw2:
+calculate all eigenvalues of a 10x10 matrix using QR method, calculate the eigenvector of the real eigenvalue
+
+#hw3:
+solve the system of nonlinear equations of 4 unknowns using least square root method
+
+Ref: Numerical Analysis, Beihang University. Page 238,239, 243
